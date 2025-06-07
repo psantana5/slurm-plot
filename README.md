@@ -23,7 +23,7 @@ pip install slurm-plot
 ### Desde código fuente
 
 ```bash
-git clone https://github.com/slurmplot/slurm-plot.git
+git clone https://github.com/psantana5/slurm-plot.git
 cd slurm-plot
 pip install -e .
 ```
