@@ -14,12 +14,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="slurm-plot",
     version="1.0.0",
-    author="SLURM Plot Team",
-    author_email="contact@slurmplot.com",
+    author="Pau Santana",
+    author_email="pausantanapi2@gmail.com",
     description="A CLI tool for extracting, processing and plotting SLURM job data",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/slurmplot/slurm-plot",
+    url="https://github.com/psantana5/slurm-plot",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
